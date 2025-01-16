@@ -1,4 +1,4 @@
-![logo](https://github.com/AliUsman143/AliUsman143/blob/main/M.ali%20usman.png)
+![logo](https://github.com/AliUsman143/AliUsman143/blob/main/M.ali%20usman%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Usman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
