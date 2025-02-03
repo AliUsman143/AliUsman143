@@ -2,7 +2,6 @@
   <img 
     src="https://github.com/AliUsman143/AliUsman143/blob/main/M.ali%20usman%20(1).png" 
     alt="Muhammad Ali Usman Logo" 
-    style="max-width: 100%; height: auto; margin: 0 auto; display: block;"
   />
 </h1>
 
