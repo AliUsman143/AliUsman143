@@ -1,9 +1,5 @@
-<h1 align="center">
-  <img 
-    src="https://github.com/AliUsman143/AliUsman143/blob/main/M.ali%20usman%20(1).png" 
-    alt="Muhammad Ali Usman Logo" 
-  />
-</h1>
+![logo](https://github.com/AliUsman143/AliUsman143/blob/main/linkedin%20bg%20img.png?raw=true)
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Usman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
