@@ -1,4 +1,4 @@
-![logo](https://github.com/AliUsman143/AliUsman143/blob/main/M.ali%20usman%20(1).png)
+![logo](https://github.com/AliUsman143/AliUsman143/blob/main/Gradient%20Geometric%20Creative%20Agency%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Usman</h1>
