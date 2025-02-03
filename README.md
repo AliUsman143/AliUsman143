@@ -1,4 +1,4 @@
-![logo](https://github.com/AliUsman143/AliUsman143/blob/main/linkedin%20bg%20img.png?raw=true)
+![logo](https://github.com/AliUsman143/AliUsman143/blob/main/M.ali%20usman%20(1).png)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Usman</h1>
