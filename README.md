@@ -112,15 +112,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-faizan-alam&show_icons=true&locale=en" alt="GitHub stats" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=AliUsman143&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
 <h3 align="left">Languages Used:</h3>
 <p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-faizan-alam&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliUsman143&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 
 <h3 align="left">Contributions:</h3>
 <p align="center">
-  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-faizan-alam&" alt="GitHub streaks" />
+  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AliUsman143&" alt="GitHub streaks" />
 </p>
